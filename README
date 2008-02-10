@@ -1,0 +1,6 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2150
+
+This Script underlays the hexadecimal CSS colorcodes with their real color. The foreground color is selected appositely. So #FF0000 will look as hot as a fire engine!
+
+An image for those who do not get my prose:
+http://lanpartei.de/~niklas/vim/after/syntax/css-color-vim.png
